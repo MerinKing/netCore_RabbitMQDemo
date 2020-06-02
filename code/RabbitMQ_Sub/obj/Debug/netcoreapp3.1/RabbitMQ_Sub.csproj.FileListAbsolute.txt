@@ -1,0 +1,15 @@
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.exe
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.AssemblyInfoInputs.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.AssemblyInfo.cs
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.csprojAssemblyReference.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.csproj.CoreCompileInputs.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.deps.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.runtimeconfig.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.runtimeconfig.dev.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ_Sub.pdb
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.csproj.CopyComplete
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.pdb
+C:\Users\MerinKing\source\repos\RabbitMQ_Sub\obj\Debug\netcoreapp3.1\RabbitMQ_Sub.genruntimeconfig.cache

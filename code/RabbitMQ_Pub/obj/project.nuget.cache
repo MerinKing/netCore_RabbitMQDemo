@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jokIfh2U2YQ5w/9KNsbkbK2T5voVom+bl1bYfJNoeOEF5zD9MkhCxqmke728j30otn1eEXvq94iMRVKRreYVzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MerinKing\\source\\repos\\gitHubDemo\\code\\RabbitMQ_Pub\\RabbitMQ_Pub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MerinKing\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\MerinKing\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

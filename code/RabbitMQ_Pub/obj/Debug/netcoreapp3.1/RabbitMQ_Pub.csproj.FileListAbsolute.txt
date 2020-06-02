@@ -1,0 +1,15 @@
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.exe
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.AssemblyInfoInputs.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.AssemblyInfo.cs
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.deps.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.runtimeconfig.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.runtimeconfig.dev.json
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ_Pub.pdb
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.csprojAssemblyReference.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.csproj.CoreCompileInputs.cache
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.csproj.CopyComplete
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.dll
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.pdb
+C:\Users\MerinKing\source\repos\RabbitMQ_Pub\obj\Debug\netcoreapp3.1\RabbitMQ_Pub.genruntimeconfig.cache
